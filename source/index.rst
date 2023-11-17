@@ -35,6 +35,7 @@ Useful links
    lectures/12-AND_net-pytorch.ipynb
    lectures/13-AND-train-pytorch.ipynb
    lectures/14-full-train_script_pytorch.ipynb
+   lectures/15-gradient-descent.ipynb
    lectures/20_sequences-AK.ipynb
    lectures/30_nlp-AK.ipynb
    lectures/40_cnn-AK.ipynb
