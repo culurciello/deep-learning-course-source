@@ -43,7 +43,7 @@ Useful links
    lectures/42-conv-layer.ipynb
    lectures/43-conv-size-your-data.ipynb
    lectures/44-dataloaders.ipynb
-   lecture/45-fixing-first-example.ipynb
+   lectures/45-fixing-first-example.ipynb
    lectures/51-RL-DQN.ipynb
    lectures/52-RL-PPO.ipynb
 
