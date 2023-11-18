@@ -37,8 +37,8 @@ Useful links
    lectures/14-full-train_script_pytorch.ipynb
    lectures/15-gradient-descent.ipynb
    lectures/20_sequences-AK.ipynb
-   lectures/30_nlp-AK.ipynb
-   lectures/40_cnn-AK.ipynb
+   lectures/21_nlp-AK.ipynb
+   lectures/22_cnn-AK.ipynb
    lectures/41-conv-cifar10-tutorial.ipynb
    lectures/42-conv-layer.ipynb
    lectures/43-conv-size-your-data.ipynb
