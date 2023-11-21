@@ -36,6 +36,7 @@ Useful links
    lectures/13-AND-train-pytorch.ipynb
    lectures/14-full-train_script_pytorch.ipynb
    lectures/15-gradient-descent.ipynb
+   lectures/16-curve-fit.ipynb
    lectures/20_sequences-AK.ipynb
    lectures/21_nlp-AK.ipynb
    lectures/22_cnn-AK.ipynb
