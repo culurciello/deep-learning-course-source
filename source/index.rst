@@ -26,11 +26,8 @@ Useful links
 .. toctree::
    :maxdepth: 1
 
-   :caption: Introduction and phylosophy
-   lectures/intro-phyl.ipynb
-
    :caption: Lectures:
-
+   lectures/intro-phyl.ipynb
    lectures/00-what-is-ML.ipynb
    lectures/01-tensors-pytorch.ipynb
    lectures/02-pytorch-tensors_tutorial.ipynb
