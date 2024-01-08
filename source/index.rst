@@ -27,7 +27,7 @@ Useful links
    :maxdepth: 1
 
    :caption: Introduction and phylosophy
-   lectures/intro-phyl.md
+   lectures/intro-phyl.ipynb
 
    :caption: Lectures:
 
