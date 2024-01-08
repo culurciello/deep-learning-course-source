@@ -5,8 +5,12 @@
 
 Deep learning course material from Eugenio Culurciello
 
+### install
 
-### to update:
+```pip install myst-nb sphinx_rtd_theme```
+
+
+### generate HTML pages:
 
 ```make html```
 

@@ -22,15 +22,16 @@ Useful links
 -------------
 - `tbd <https://tbd/>`_ (used for tbd)
 
-
 .. toctree::
    :maxdepth: 1
    :caption: 🚀 Introduction:
-      lectures/intro-phyl.ipynb
+
+   lectures/intro-phyl.ipynb
 
 .. toctree::
    :maxdepth: 1
    :caption: 📚 Lectures:
+   
    lectures/00-what-is-ML.ipynb
    lectures/01-tensors-pytorch.ipynb
    lectures/02-pytorch-tensors_tutorial.ipynb
