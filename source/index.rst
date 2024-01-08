@@ -25,12 +25,12 @@ Useful links
 
 .. toctree::
    :maxdepth: 1
-   :caption: Introduction:
+   :caption: 🚀 Introduction:
       lectures/intro-phyl.ipynb
 
 .. toctree::
    :maxdepth: 1
-   :caption: Lectures:
+   :caption: 📚 Lectures:
    lectures/00-what-is-ML.ipynb
    lectures/01-tensors-pytorch.ipynb
    lectures/02-pytorch-tensors_tutorial.ipynb
