@@ -25,6 +25,10 @@ Useful links
 
 .. toctree::
    :maxdepth: 1
+
+   :caption: Introduction and phylosophy
+   lectures/intro-phyl.md
+
    :caption: Lectures:
 
    lectures/00-what-is-ML.ipynb
