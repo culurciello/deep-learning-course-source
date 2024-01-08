@@ -31,7 +31,7 @@ Useful links
 .. toctree::
    :maxdepth: 1
    :caption: 📚 Lectures:
-   
+
    lectures/00-what-is-ML.ipynb
    lectures/01-tensors-pytorch.ipynb
    lectures/02-pytorch-tensors_tutorial.ipynb
@@ -52,6 +52,12 @@ Useful links
    lectures/45-fixing-first-example.ipynb
    lectures/51-RL-DQN.ipynb
    lectures/52-RL-PPO.ipynb
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 💓 About the teacher:
+
+   lectures/eugenio.ipynb
 
 
 Indices and tables
