@@ -26,15 +26,15 @@ Useful links
    :maxdepth: 1
    :caption: 🚀 Introduction:
 
-   lectures/intro-phyl.ipynb
+   lectures/0-intro-phyl.ipynb
 
 .. toctree::
    :maxdepth: 1
    :caption: 📚 Lectures:
 
-   lectures/00-what-is-ML.ipynb
-   lectures/01-tensors-pytorch.ipynb
-   lectures/02-pytorch-tensors_tutorial.ipynb
+   lectures/01-what-is-ML.ipynb
+   lectures/02-tensors-pytorch.ipynb
+   lectures/03-pytorch-tensors_tutorial.ipynb
    lectures/10-neurons.ipynb
    lectures/11-neural-nets.ipynb
    lectures/12-AND_net-pytorch.ipynb
@@ -57,7 +57,7 @@ Useful links
    :maxdepth: 1
    :caption: 💓 About the teacher:
 
-   lectures/eugenio.ipynb
+   lectures/0-eugenio.ipynb
 
 
 Indices and tables
