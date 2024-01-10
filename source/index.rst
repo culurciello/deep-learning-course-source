@@ -35,6 +35,7 @@ Useful links
    lectures/01-what-is-ML.ipynb
    lectures/02-tensors-pytorch.ipynb
    lectures/03-pytorch-tensors_tutorial.ipynb
+   lectures/04-types-learning.ipynb
    lectures/10-neurons.ipynb
    lectures/11-neural-nets.ipynb
    lectures/12-AND_net-pytorch.ipynb
@@ -42,9 +43,10 @@ Useful links
    lectures/14-full-train_script_pytorch.ipynb
    lectures/15-gradient-descent.ipynb
    lectures/16-curve-fit.ipynb
-   lectures/20_sequences-AK.ipynb
-   lectures/21_nlp-AK.ipynb
-   lectures/22_cnn-AK.ipynb
+   lectures/20-sequences-AK.ipynb
+   lectures/21-nlp-AK.ipynb
+   lectures/22-cnn-AK.ipynb
+   lectures/30-transformers-basics.ipynb
    lectures/41-conv-cifar10-tutorial.ipynb
    lectures/42-conv-layer.ipynb
    lectures/43-conv-size-your-data.ipynb
