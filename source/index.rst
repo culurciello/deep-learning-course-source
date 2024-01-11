@@ -34,7 +34,7 @@ Useful links
 
    lectures/01-what-is-ML.ipynb
    lectures/02-tensors-pytorch.ipynb
-   lectures/03-pytorch-tensors_tutorial.ipynb
+   lectures/03-tensor-data.ipynb
    lectures/04-types-learning.ipynb
    lectures/10-neurons.ipynb
    lectures/11-neural-nets.ipynb
