@@ -47,6 +47,7 @@ Useful links
    lectures/21-nlp-AK.ipynb
    lectures/22-cnn-AK.ipynb
    lectures/30-transformers-basics.ipynb
+   lectures/31-transformers-network.ipynb
    lectures/41-conv-cifar10-tutorial.ipynb
    lectures/42-conv-layer.ipynb
    lectures/43-conv-size-your-data.ipynb
