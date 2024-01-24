@@ -38,8 +38,8 @@ Useful links
    lectures/04-types-learning.ipynb
    lectures/10-neurons.ipynb
    lectures/11-neural-nets.ipynb
-   lectures/12-AND_net-pytorch.ipynb
-   lectures/13-AND-train-pytorch.ipynb
+   lectures/12-binary-net-pytorch-manual.ipynb
+   lectures/13-binary-net-pytorch.ipynb
    lectures/14-full-train_script_pytorch.ipynb
    lectures/15-gradient-descent.ipynb
    lectures/16-curve-fit.ipynb
