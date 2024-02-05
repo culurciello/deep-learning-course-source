@@ -39,6 +39,7 @@ Useful links
    lectures/10-neurons.ipynb
    lectures/11-simplest-neural-net.ipynb
    lectures/12-binary-net-pytorch-manual.ipynb
+   lectures/13-backpropagation.ipynb
    lectures/13-binary-net-pytorch.ipynb
    lectures/14-full-train_script_pytorch.ipynb
    lectures/15-gradient-descent.ipynb
