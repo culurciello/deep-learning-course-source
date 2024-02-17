@@ -41,6 +41,7 @@ Useful links
    lectures/12-binary-net-pytorch-manual.ipynb
    lectures/13-backpropagation.ipynb
    lectures/13-binary-net-pytorch.ipynb
+   lectures/14-datasets.ipynb
    lectures/14-full-train_script_pytorch.ipynb
    lectures/15-gradient-descent.ipynb
    lectures/16-curve-fit.ipynb
@@ -60,7 +61,7 @@ Useful links
 
 .. toctree::
    :maxdepth: 1
-   :caption: 💓 About the teacher:
+   :caption: 💓 Our instructor:
 
    lectures/0-eugenio.ipynb
 
