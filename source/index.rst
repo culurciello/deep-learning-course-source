@@ -39,13 +39,12 @@ Useful links
    lectures/10-neurons.ipynb
    lectures/11-simplest-neural-net.ipynb
    lectures/12-binary-net-pytorch-manual.ipynb
-   lectures/13-backpropagation.ipynb
-   lectures/13-binary-net-pytorch.ipynb
-   lectures/14-datasets.ipynb
-   lectures/14-full-train_script_pytorch.ipynb
-   lectures/15-gradient-descent.ipynb
-   lectures/16-curve-fit.ipynb
-   lectures/17-xnor.ipynb
+   lectures/13-xnor.ipynb
+   lectures/14-backpropagation.ipynb
+   lectures/15-binary-net-pytorch.ipynb
+   lectures/16-datasets.ipynb
+   lectures/17-full-train_script_pytorch.ipynb
+   lectures/18-curve-fit.ipynb
    lectures/20-sequences-AK.ipynb
    lectures/21-nlp-AK.ipynb
    lectures/22-cnn-AK.ipynb
