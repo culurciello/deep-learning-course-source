@@ -55,8 +55,13 @@ Useful links
    lectures/43-conv-size-your-data.ipynb
    lectures/44-dataloaders.ipynb
    lectures/45-fixing-first-example.ipynb
-   lectures/51-RL-DQN.ipynb
-   lectures/52-RL-PPO.ipynb
+   lectures/50-tips-tricks.ipynb
+   lectures/51-nn-building.ipynb
+   lectures/52-nn-architectures.ipynb
+   lectures/60-unsupervised.ipynb
+   lectures/70-artificial-brains.ipynb
+   lectures/81-RL-DQN.ipynb
+   lectures/82-RL-PPO.ipynb
 
 .. toctree::
    :maxdepth: 1
