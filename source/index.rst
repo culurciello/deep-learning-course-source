@@ -50,6 +50,7 @@ Useful links
    lectures/22-cnn-AK.ipynb
    lectures/30-transformers-basics.ipynb
    lectures/31-transformers-network.ipynb
+   lectures/32-transformers-example.ipynb
    lectures/40-conv-layer.ipynb
    lectures/41-conv-size-your-data.ipynb
    lectures/42-conv-cifar10-tutorial.ipynb
