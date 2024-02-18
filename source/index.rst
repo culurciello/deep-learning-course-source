@@ -50,11 +50,11 @@ Useful links
    lectures/22-cnn-AK.ipynb
    lectures/30-transformers-basics.ipynb
    lectures/31-transformers-network.ipynb
-   lectures/41-conv-cifar10-tutorial.ipynb
-   lectures/42-conv-layer.ipynb
-   lectures/43-conv-size-your-data.ipynb
-   lectures/44-dataloaders.ipynb
-   lectures/45-fixing-first-example.ipynb
+   lectures/40-conv-layer.ipynb
+   lectures/41-conv-size-your-data.ipynb
+   lectures/42-conv-cifar10-tutorial.ipynb
+   lectures/43-dataloaders.ipynb
+   lectures/44-fixing-first-example.ipynb
    lectures/50-tips-tricks.ipynb
    lectures/51-nn-building.ipynb
    lectures/52-nn-architectures.ipynb
