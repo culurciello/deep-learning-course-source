@@ -22,3 +22,12 @@ source/lectures/images/.DS_Store
 source/.DS_Store
 source/.DS_Store
 source/lectures/.DS_Store
+source/lectures/data/FashionMNIST/raw/t10k-images-idx3-ubyte
+source/lectures/data/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
+source/lectures/data/FashionMNIST/raw/t10k-labels-idx1-ubyte
+source/lectures/data/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz
+source/lectures/data/FashionMNIST/raw/train-images-idx3-ubyte
+source/lectures/data/FashionMNIST/raw/train-images-idx3-ubyte.gz
+source/lectures/data/FashionMNIST/raw/train-labels-idx1-ubyte
+source/lectures/data/FashionMNIST/raw/train-labels-idx1-ubyte.gz
+source/lectures/X17-full-train_script_pytorch-datafolder.ipynb
