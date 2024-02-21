@@ -45,9 +45,9 @@ Useful links
    lectures/16-datasets.ipynb
    lectures/17-full-train_script_pytorch.ipynb
    lectures/18-curve-fit.ipynb
-   lectures/20-sequences-AK.ipynb
-   lectures/21-nlp-AK.ipynb
-   lectures/22-cnn-AK.ipynb
+   lectures/20-seq-1i.ipynb
+   lectures/21-seq-multi-i.ipynb
+   lectures/22-seq-cnn-1d.ipynb
    lectures/30-transformers-basics.ipynb
    lectures/31-transformers-network.ipynb
    lectures/32-transformers-example.ipynb
