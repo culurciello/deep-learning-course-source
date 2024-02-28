@@ -45,6 +45,7 @@ Useful links
    lectures/16-datasets.ipynb
    lectures/17-full-train_script_pytorch.ipynb
    lectures/18-curve-fit.ipynb
+   lectures/19-nn-what-next.ipynb
    lectures/20-seq-1i.ipynb
    lectures/21-seq-multi-i.ipynb
    lectures/22-seq-cnn-1d.ipynb
