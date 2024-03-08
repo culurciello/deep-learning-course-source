@@ -63,6 +63,7 @@ Useful links
    lectures/51-nn-building.ipynb
    lectures/52-nn-architectures.ipynb
    lectures/60-unsupervised.ipynb
+   lectures/61-generating-images.ipynb
    lectures/70-artificial-brains.ipynb
    lectures/81-RL-DQN.ipynb
    lectures/82-RL-PPO.ipynb
