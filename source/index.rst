@@ -59,6 +59,7 @@ Useful links
    lectures/42-conv-cifar10-tutorial.ipynb
    lectures/43-dataloaders.ipynb
    lectures/44-fixing-first-example.ipynb
+   lectures/45-labeling-data.ipynb
    lectures/50-tips-tricks.ipynb
    lectures/51-nn-building.ipynb
    lectures/52-nn-architectures.ipynb
