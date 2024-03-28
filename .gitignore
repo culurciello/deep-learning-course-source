@@ -12,3 +12,12 @@ source/lectures/data/FashionMNIST/raw/train-images-idx3-ubyte.gz
 source/lectures/data/FashionMNIST/raw/train-labels-idx1-ubyte
 source/lectures/data/FashionMNIST/raw/train-labels-idx1-ubyte.gz
 source/lectures/X17-full-train_script_pytorch-datafolder.ipynb
+source/lectures/data/cifar-10-batches-py/batches.meta
+source/lectures/data/cifar-10-batches-py/data_batch_1
+source/lectures/data/cifar-10-batches-py/data_batch_2
+source/lectures/data/cifar-10-batches-py/data_batch_3
+source/lectures/data/cifar-10-batches-py/data_batch_4
+source/lectures/data/cifar-10-batches-py/data_batch_5
+source/lectures/data/cifar-10-batches-py/readme.html
+source/lectures/data/cifar-10-batches-py/test_batch
+source/lectures/data/cifar-10-python.tar.gz
