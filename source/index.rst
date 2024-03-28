@@ -66,6 +66,7 @@ Useful links
    lectures/60-unsupervised.ipynb
    lectures/61-generating-images.ipynb
    lectures/70-artificial-brains.ipynb
+   lectures/80-RL-intro.ipynb
    lectures/81-RL-DQN.ipynb
    lectures/82-RL-PPO.ipynb
 
