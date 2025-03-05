@@ -49,6 +49,7 @@ Useful links
    lectures/20-seq-1i.ipynb
    lectures/21-seq-multi-i.ipynb
    lectures/22-seq-cnn-1d.ipynb
+   lectures/23-seq-tinyattention.ipynb
    lectures/30-transformers-basics.ipynb
    lectures/31-transformers-network.ipynb
    lectures/32-transformers-example.ipynb
