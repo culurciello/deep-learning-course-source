@@ -16,7 +16,7 @@ release = '0.1'
 
 extensions = [
     "myst_nb",
-    "myst_parser",
+    # "myst_parser",
 ]
 
 templates_path = ['_templates']
