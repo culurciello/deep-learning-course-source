@@ -7,9 +7,9 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Deep Learning Course'
-copyright = '2023, Eugenio Culurciello'
+copyright = '2026, Eugenio Culurciello'
 author = 'Eugenio Culurciello'
-release = '0.1'
+release = '0.4'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
