@@ -36,6 +36,7 @@ Useful links
    lectures/02-tensors-pytorch.ipynb
    lectures/03-tensor-data.ipynb
    lectures/04-types-learning.ipynb
+   lectures/05-function-approx.ipynb
    lectures/10-neurons.ipynb
    lectures/11-simplest-neural-net.ipynb
    lectures/12-binary-net-pytorch-manual.ipynb
