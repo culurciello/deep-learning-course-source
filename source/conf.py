@@ -16,7 +16,6 @@ release = '0.1'
 
 extensions = [
     "myst_nb",
-    'sphinx.ext.mathjax'
     "myst_parser",
 ]
 
