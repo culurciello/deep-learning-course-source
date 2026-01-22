@@ -15,8 +15,8 @@ release = '0.4'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    "myst_nb",
-    # "myst_parser",
+    # "myst_nb",
+    "nbsphinx",
 ]
 
 templates_path = ['_templates']
